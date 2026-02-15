@@ -1,2 +1,3 @@
 Hello Git
 This is a wild idea!
+This is a wild idea!
